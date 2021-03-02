@@ -1,4 +1,4 @@
-import btoa from 'btoa-lite'
+import btoa from 'utils/btoa'
 
 type AuthPluginState = import('./types').AuthPluginState
 type RequestOptions = import('./types').RequestOptions
